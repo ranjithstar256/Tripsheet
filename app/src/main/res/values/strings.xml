@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tripsheet</string>
+    <string name="new_user_re">New User Register --></string>
+    <string name="enter_verif">Enter Verification Code</string>
+    <string name="enter_pw">Enter Password</string>
+    <string name="transport_ledger">Transport Ledger</string>
+    <string name="have_a_safe_journey">Have a safe Journey</string>
+    <string name="forgotpw">Forgot Password</string>
+    <string name="explcabname">THAI CABS</string>
+    <string name="vegenum">TN51 AX 2754</string>
+    <string name="create_acc">Create Account</string>
+    <string name="trip_sheet">Trip Sheet</string>
+
+</resources>

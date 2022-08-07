@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "257835446571",
+    "project_id": "tripsheet-d894b",
+    "storage_bucket": "tripsheet-d894b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257835446571:android:89a43c036d1262d4cd156e",
+        "android_client_info": {
+          "package_name": "kpr.am.tripsheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257835446571-r9fot0ispqbc9v0tmhsakrdki5bk43gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kpr.am.tripsheet",
+            "certificate_hash": "2adda4f1d6e78ad28214a221258c1058d0445aa6"
+          }
+        },
+        {
+          "client_id": "257835446571-n0qckl674rupfhb3h4bhfcbncjfc8s27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinwy7t1WkrU_-YQ7uVA8t09cAlTTNJdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257835446571-n0qckl674rupfhb3h4bhfcbncjfc8s27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
